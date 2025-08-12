@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <style>
+        /* Simple but comprehensive reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        html, body { 
+            margin: 0 !important; 
+            padding: 0 !important;
+            height: 100%;
+            overflow-x: hidden;
+        }
+    </style>
+    <title>Campus Placement Portal - Training & Placement Cell</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <img src="logo22_1753949200668.png" alt="NIT Patna Logo" class="college-logo">
+                    <div class="logo-text">
+                        <span class="portal-name">Campus Placement Portal</span>
+                        <span class="college-name">NIT Patna</span>
+                    </div>
+                </div>
+                <div class="header-info">
+                    <div class="theme-toggle">
+                        <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">
+                            <i class="fas fa-sun" id="lightIcon"></i>
+                            <i class="fas fa-moon" id="darkIcon"></i>
+                        </button>
+                    </div>
+                    <span class="developer-info">Developed by Harshit Kumar | B.Tech + M.Tech ECE</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#btech-2026" class="nav-link active" data-section="btech-2026">B.Tech 2026 (Placement)</a></li>
+                <li><a href="#btech-dual-2027" class="nav-link" data-section="btech-dual-2027">B.Tech (Dual) 2027</a></li>
+                <li><a href="#btech-2027" class="nav-link" data-section="btech-2027">B.Tech 2027</a></li>
+                <li><a href="#btech-dual-2028" class="nav-link" data-section="btech-dual-2028">B.Tech (Dual) 2028</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- B.Tech 2026 - Placement Section -->
+            <section id="btech-2026" class="section">
+                <div class="section-header">
+                    <h2>B.Tech 2026 - Placement Opportunities</h2>
+                    <p class="section-description">Full-time placement opportunities for final year students</p>
+                </div>
+                <div class="cards-grid" id="btech-2026-cards">
+                    <!-- Cards will be dynamically generated -->
+                </div>
+            </section>
+
+            <!-- B.Tech (Dual Degree) 2027 - Internship Section -->
+            <section id="btech-dual-2027" class="section">
+                <div class="section-header">
+                    <h2>B.Tech (Dual Degree) 2027 - Internship Opportunities</h2>
+                    <p class="section-description">Summer internship opportunities for dual degree students</p>
+                </div>
+                <div class="cards-grid" id="btech-dual-2027-cards">
+                    <!-- Cards will be dynamically generated -->
+                </div>
+            </section>
+
+            <!-- B.Tech 2027 - Internship Section -->
+            <section id="btech-2027" class="section">
+                <div class="section-header">
+                    <h2>B.Tech 2027 - Internship Opportunities</h2>
+                    <p class="section-description">Summer internship opportunities for third year students</p>
+                </div>
+                <div class="cards-grid" id="btech-2027-cards">
+                    <!-- Cards will be dynamically generated -->
+                </div>
+            </section>
+
+            <!-- B.Tech (Dual Degree) 2028 - Internship Section -->
+            <section id="btech-dual-2028" class="section">
+                <div class="section-header">
+                    <h2>B.Tech (Dual Degree) 2028 - Internship Opportunities</h2>
+                    <p class="section-description">Summer internship opportunities for second year dual degree students</p>
+                </div>
+                <div class="cards-grid" id="btech-dual-2028-cards">
+                    <!-- Cards will be dynamically generated -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p>&copy; 2025 Campus Placement Portal | Training & Placement Cell</p>
+                </div>
+                <div class="footer-links">
+                    <a href="#" class="footer-link">Contact TPC</a>
+                    <a href="#" class="footer-link">Guidelines</a>
+                    <a href="#" class="footer-link">Help</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
