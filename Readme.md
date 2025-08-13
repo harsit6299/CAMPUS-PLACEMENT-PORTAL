@@ -12,12 +12,19 @@ Built with **Vanilla HTML, CSS, and JavaScript** — lightweight, fast, and easy
 
 ---
 
+# Take a look....
+[Live demo](https://harsit6299.github.io/CAMPUS-PLACEMENT-PORTAL/)
+---
+![image](https://github.com/harsit6299/CAMPUS-PLACEMENT-PORTAL/blob/d2329ec7a2cbd0f3e70132d423e34f6c99c76a2e/Light%20Mode.png)
+![image](https://github.com/harsit6299/CAMPUS-PLACEMENT-PORTAL/blob/d2329ec7a2cbd0f3e70132d423e34f6c99c76a2e/Dark%20Mode.png)
+
 ## 🚀 Features at a Glance  
 - **Clean & Modern UI** – Gradient-based design with semantic HTML  
 - **Responsive Layout** – Mobile-first design using Flexbox & CSS Grid  
 - **Interactive Navigation** – Smooth section switching with JavaScript  
 - **Dynamic Content Loading** – Card-based structure for placement listings  
-- **Quick Navigation Sidebar** – Floating shortcut for faster access  
+- **Quick Navigation Sidebar** – Floating shortcut for faster access
+- **Google Form Integration** – Each “Apply” button opens a Google Form to record applicant data 
 - **Deadline Highlighting** – Visual emphasis on upcoming application deadlines  
 - **Minimal Dependencies** – Faster load time and better performance  
 
