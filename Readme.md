@@ -40,9 +40,20 @@ Built with **Vanilla HTML, CSS, and JavaScript** — lightweight, fast, and easy
 
 ---
 
+## 👨‍💻 **Developed by: Harshit Kumar**  
+
+**🎓 Final-Year Undergraduate | 🧑‍💻 Web Developer & Tech Enthusiast**  
+**📍 NIT Patna | 📬 harshitk.nitp@gmail.com**  
+**🔗 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-32bbb7271)**
+
 ## 📂 Project Structure  
 ```plaintext
 📁 campus-placement-portal
 ├── index.html      # Main entry point
 ├── styles.css      # Styling & responsive design
 └── script.js       # App logic & interactivity
+
+
+
+
+
