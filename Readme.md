@@ -46,7 +46,7 @@ Built with **Vanilla HTML, CSS, and JavaScript** — lightweight, fast, and easy
 **📍 NIT Patna | 📬 harshitk.nitp@gmail.com**  
 **🔗 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-32bbb7271)**
 
-## 📂 Project Structure  
+## 📂 Project Structure   
 ```plaintext
 📁 campus-placement-portal
 ├── index.html      # Main entry point
